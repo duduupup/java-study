@@ -1,5 +1,8 @@
 package com.github.duduupup.guicedemo.noguice;
 
+import com.github.duduupup.guicedemo.CreditCardProcessor;
+import com.github.duduupup.guicedemo.PaypalCreditCardProcessor;
+
 public class CreditCardProcessorFactory {
     private static CreditCardProcessor instance;
 

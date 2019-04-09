@@ -1,9 +1,6 @@
 package com.github.duduupup.guicedemo.noguice;
 
-import com.github.duduupup.guicedemo.ChargeResult;
-import com.github.duduupup.guicedemo.CreditCard;
-import com.github.duduupup.guicedemo.PizzaOrder;
-import com.github.duduupup.guicedemo.Receipt;
+import com.github.duduupup.guicedemo.*;
 
 public class RealBillingService implements BillingService {
     @Override

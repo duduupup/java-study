@@ -1,4 +1,4 @@
-package com.github.duduupup.guicedemo.noguice;
+package com.github.duduupup.guicedemo;
 
 import com.github.duduupup.guicedemo.ChargeResult;
 
